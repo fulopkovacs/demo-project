@@ -2,3 +2,6 @@
 # yarn lockfile v1
 
 
+"demo-package@https://packages.fulop.dev/demo-project-f6efd87.tgz":
+  version "1.0.0"
+  resolved "https://packages.fulop.dev/demo-project-f6efd87.tgz#c7528587dc33bcd3315cd1f4eb6c33a2606e5f31"
